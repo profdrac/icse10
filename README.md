@@ -1,4 +1,4 @@
-##ICSE10
+## ICSE10
 
 ![Understanding Computer Applications - ICSE Class-X](https://images-eu.ssl-images-amazon.com/images/I/51%2B0WxUdwyL._AC_UL160_.jpg)
 
