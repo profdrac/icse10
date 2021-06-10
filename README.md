@@ -1,5 +1,5 @@
-![Understanding Computer Applications - ICSE Class-X](https://images-na.ssl-images-amazon.com/images/I/51+0WxUdwyL._SX327_BO1,204,203,200_.jpg)
+![Understanding Computer Applications - ICSE Class-X](https://images-eu.ssl-images-amazon.com/images/I/51%2B0WxUdwyL._AC_UL160_.jpg)
 
-## Solutions to the problems + additional c0d3
+## Solution to the problems + additional code
 
 by, Ashutosh Sharma
