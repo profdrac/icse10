@@ -104,7 +104,7 @@ class Challenge246
             break;
 
             case 6:
-            //Buzz: Number end with 7 or is divisible by 7
+            //Buzz: Number ends with 7 or is divisible by 7
             if(number%10 == 7 || number%7 == 0)
             result = true;
             break;
@@ -166,7 +166,7 @@ class Challenge246
             //Unique: if none of the digits repeat
             result = true;
             temp = number;
-            for (int i = 1; i < 10; i++) {
+            for (int i = 0; i < 10; i++) {
                 count = 0;
                 number = temp;
                 while(number>0)
@@ -253,8 +253,6 @@ class Challenge246
                 result = true;
             }
             break;
-            default:
-            return false;
         }
         return result;
     }
