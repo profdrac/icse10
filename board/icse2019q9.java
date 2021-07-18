@@ -16,15 +16,12 @@ Square of sum of the halves of 3025 = (30+25)^2
 
 class icse2019q9 {
 	
-	public static void main(String args[]) {
+	public static void main(String args[])
+	{
 		for(int i=1000; i<=9999; i++)
 		{
-			int p1 = i/100;
-			int p2 = i%100;
-			int sum = p1+p2;
-			if(sum*sum == i)
-				System.out.print(i + " ");
+			if(Math.pow((i/100)+(i%100), 2) == i)
+				System.out.println(i);
 		}
-        System.out.println("Bye");
 	}
 }
