@@ -53,10 +53,13 @@ class icse2017q4{
     {
         if(units<=100)
         bill = units*2.00;
-        else if(units>100 && units<=200)
+        else if(units>100 && units<=300)
         bill = 200 + (units-100)*3.00;
         else
-        bill = 200 + 600 + (units-300)*5.00;
+        {
+            bill = 200 + 600 + (units-300)*5.00;
+            bill = bill + (bill*2.5/100);
+        }
     }
 
     private void print()
