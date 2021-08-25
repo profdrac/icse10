@@ -1,5 +1,3 @@
-package class10.chapter7;
-
 class Calculate
 {
     int num, f, rev;
