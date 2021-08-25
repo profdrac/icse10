@@ -1,6 +1,3 @@
-from typing import Callable
-
-
 class Caclculate:
 
     def __init__(self, n) -> None:
