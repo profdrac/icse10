@@ -1,4 +1,4 @@
-class Caclculate:
+class Calculate:
 
     def __init__(self, n) -> None:
         self.num = n
@@ -30,5 +30,5 @@ class Caclculate:
             print("Not Prime palindrome")
         return
 
-o = Caclculate(121)
+o = Calculate(121)
 o.display()
