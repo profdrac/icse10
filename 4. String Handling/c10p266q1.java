@@ -4,7 +4,7 @@ package class10.chapter4;
  * @author (Ashutosh Sharma)
  */
 import java.util.Scanner;
-class p266q1
+class c10p266q1
 {
     public static void main(String[] args)
     {
