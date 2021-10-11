@@ -1,6 +1,6 @@
 package class10.chapter4;
 /**
- * WAP to 
+ * WAP to print all words of a string in different lines
  * @author (Ashutosh Sharma)
  */
 import java.util.Scanner;
